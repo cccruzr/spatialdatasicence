@@ -1,0 +1,3 @@
+﻿id;name;adr
+01;Home;Bernhardinkatu 1b, 00130 Helsinki, Finland
+02;Work;Kuortaneenkatu 7, 00520 Helsinki, Finland

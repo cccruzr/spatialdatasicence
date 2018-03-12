@@ -1,0 +1,7 @@
+id;name;adr
+01;Itis;Itäkatu 1, 00930 Helsinki, Finland
+02;Forum;Mannerheimintie 20, Mannerheimvägen 20, 00100 Helsinki, Finland
+03;Iso Omena;Piispansilta 11, 02230 Espoo, Finland
+04;Sello;Leppävaarankatu 3-9, 02600 Espoo, Finland
+05;Jumbo;Vantaanportinkatu 3, 01510 Vantaa, Finland
+06;Redi;Rakennus nro. 6,, Gasverksgatan 1, 00580 Helsingfors, Finland
