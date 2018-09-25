@@ -1,6 +1,11 @@
 # Spatial Data Science Repository
 This repository combines the files from different Spatial Data Science related courses I've taken so far and will be frequently updated.
 
+<<<<<<< HEAD
+=======
+NOTE: Despite you are more than welcome to use the code posted here as guide, **I do encourage you to try your own solutions before using it**.
+
+>>>>>>> 41f53cbbce8913070ad4120e1da433fd0f7c8eaa
 <br/>
 
 ### [University of Helsinki: Automating GIS-processes](01_Automating_GIS_Processes)
@@ -10,11 +15,16 @@ The course can be accessed at [https://autogis.github.io  ](https://autogis.gith
 
 <br/>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 41f53cbbce8913070ad4120e1da433fd0f7c8eaa
 ### [Python Scripting for ArcGIS](02_Python_Scripting_for_ArcGIS)
 *Exercises from Paul Zandbergen's book on ArcGIS scripting.*
 
 More info about the book on [Esri Press](http://esripress.esri.com/display/index.cfm?fuseaction=display&websiteID=276&moduleID=0).
 
+<<<<<<< HEAD
 <br/>
 
 ### [PostGIS in Action](03_PostGIS_in_Action)
@@ -26,3 +36,7 @@ NOTE: Despite you are more than welcome to use the code posted here as guide, *I
 
 ____
 Camilo Cruz, 2018.
+=======
+____
+Camilo Cruz, 2017.
+>>>>>>> 41f53cbbce8913070ad4120e1da433fd0f7c8eaa
